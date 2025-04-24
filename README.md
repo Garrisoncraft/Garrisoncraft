@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Garrisoncraft
+- Sup, @Garrisoncraft here
 
 - 🌟 Software Engineer | Web & Mobile Developer | LifeLong Learner
 
@@ -12,17 +12,17 @@ Mobile Development: Develop and maintain mobile applications for effective solut
 - 🎯 Skills
 Languages & Frameworks:
 
-Frontend: HTML, CSS, JavaScript, React, Angular
+Frontend: HTML, CSS, JavaScript, React
 
-Backend: Node.js, Express, Java, .NET
+Backend: Node.js, Express, Next.js, Php
 
-Mobile Development: Flutter, React Native
+Mobile Development: Flutter
 
-Database Management: Proficient in SQL, MongoDB, PostgreSQL, Firebase.
+Database Management: Proficient in SQL, MongoDB, Firebase.
 
 Version Control: Git, GitHub
 
-DevOps: Experience with Docker, Kubernetes, CI/CD pipelines.
+DevOps: Experience with Docker.
 
 - 📈 Why Work With Me?
 Problem Solver: Adept at identifying issues and implementing efficient solutions.
