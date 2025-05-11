@@ -1,35 +1,3 @@
-<div align="center">
-  <img height="150" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/garrison-sayor-aa3699313?trk=contact-info" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="contact.garrisoncraft@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <a href="+250791955398" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
-  </a>
-</div>
-
-###
-
-<h1 align="center">Sup?👋</h1>
-
-###
-
-<h3 align="left">👩‍💻 Software Engineer</h3>
-
-###
-
-<p align="left">- A Software engineer with a knack for building innovative and efficient software solutions. With expertise in both web, mobile development and Bachelor's in software engineering, I strive to create seamless user experiences and high-quality code.<br><br>- 🌐 Experience<br>Full-Stack Development: Expertise in developing and maintaining web applications using modern technologies.<br><br>Mobile Development: Develop and maintain mobile applications for effective solutions.</p>
-
-###
-
 <h3 align="left">🛠 Language and Tools</h3>
 
 ###
@@ -123,6 +91,35 @@
 </div>
 
 ###
-[![My GitHub stats: ](https://github-readme-stats.vercel.app/api?username=Garrisoncraft)](https://github.com/Garrisoncraft/github-readme-stats)
+
+<h3 align="left">👩‍💻A Software Engineer</h3>
+
+###
+
+<p align="left">- A Software engineer with a knack for building innovative and efficient software solutions. With expertise in both web, mobile development and Bachelor's in software engineering, I strive to create seamless user experiences and high-quality code.<br><br>- 🌐 Experience<br>Full-Stack Development: Expertise in developing and maintaining web applications using modern technologies.<br><br>Mobile Development: Develop and maintain mobile applications for effective solutions.</p>
+
+###
 
 
+[![My GitHub stats: ](https://github-readme-stats.vercel.app/api?username=Garrisoncraft&hide=prs&show_icons=true)](https://github.com/Garrisoncraft/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Garrisoncraft)](https://github.com/Garrisoncraft/github-readme-stats)
+
+<div align="center">
+  <img height="150" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/garrison-sayor-aa3699313?trk=contact-info" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="contact.garrisoncraft@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <a href="+250791955398" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+  </a>
+</div>
+
+###
