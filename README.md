@@ -96,7 +96,7 @@
 
 ###
 
-<p align="left">- A Software engineer with a knack for building innovative and efficient software solutions. With expertise in both web, mobile development and Bachelor's in software engineering, I strive to create seamless user experiences and high-quality code.<br><br>- 🌐 Experience<br>Full-Stack Development: Expertise in developing and maintaining web applications using modern technologies.<br><br>Mobile Development: Develop and maintain mobile applications for effective solutions.</p>
+<p align="left">- With a knack for building innovative and efficient software solutions. With expertise in both web, mobile development and Bachelor's in software engineering, I strive to create seamless user experiences and high-quality code.<br><br>- 🌐 Experience<br>Full-Stack Development: Expertise in developing and maintaining web applications using modern technologies.<br><br>Mobile Development: Develop and maintain mobile applications for effective solutions.<br><br>Leveraging these skills to deliver impactful **ICT solutions**.</p>
 
 ###
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Garrisoncraft&theme=radical)](https://github.com/Garrisoncraft/github-readme-stats)
