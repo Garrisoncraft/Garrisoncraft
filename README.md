@@ -100,7 +100,7 @@
 
 ###
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Garrisoncraft&theme=radical)](https://github.com/Garrisoncraft/github-readme-stats)
-[![My GitHub stats: ](https://github-readme-stats.vercel.app/api?username=Garrisoncraft&hide=prs,contribs_to(last_year)&show_icons=trues&theme=radical)](https://github.com/Garrisoncraft/github-readme-stats&theme=radical)
+[![My GitHub stats: ](https://github-readme-stats.vercel.app/api?username=Garrisoncraft&hide=prs,contribs&show_icons=trues&theme=radical)](https://github.com/Garrisoncraft/github-readme-stats&theme=radical)
 
 ###
 
